@@ -1,0 +1,70 @@
+[
+  {
+    "id": 0,
+    "name": "Nike Downshifter 10",
+    "price": 2319,
+    "description": "The Nike Downshifter 10 is all about updated support and cushioning. Its lightweight and padded design helps keep you moving as you push through your miles.",
+    "rate": 5.0,
+    "sku": "CI9981-008",
+    "images": [
+      "downshifter-10-running-shoe-CrpbbD.jpg",
+      "downshifter-10-running-shoe-CrpbbD (1).jpg",
+      "downshifter-10-running-shoe-CrpbbD (2).jpg",
+      "downshifter-10-running-shoe-CrpbbD (3).jpg",
+      "downshifter-10-running-shoe-CrpbbD (4).jpg",
+      "downshifter-10-running-shoe-CrpbbD (5).jpg",
+      "downshifter-10-running-shoe-CrpbbD (6).jpg",
+      "downshifter-10-running-shoe-CrpbbD (7).jpg"
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Nike Fly.By Mid",
+    "price": 2319,
+    "description": "Players who go all out, every play, in every game deserve something special for their effort. The Nike Fly.By Mid provides court-ready cushioning, support and traction for the game's constant multi-directional movements.",
+    "rate": 4.5,
+    "sku": "Q2Gp58",
+    "images": [
+      "flyby-mid-basketball-shoe-Q2Gp58.jpg",
+      "flyby-mid-basketball-shoe-Q2Gp58 (1).jpg",
+      "flyby-mid-basketball-shoe-Q2Gp58 (2).jpg",
+      "flyby-mid-basketball-shoe-Q2Gp58 (3).jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Nike Air Force 1 '07",
+    "price": 4995,
+    "description": "The legend lives on in the Nike Air Force 1 '07—a modern take on the iconic AF1 that blends classic style with sweet details. A stitched tag logo runs down the tongue while over-branding throughout reinforces Nike heritage.",
+    "rate": 4.7,
+    "sku": "7FdcQX",
+    "images": [
+      "air-force-1-07-shoe-7FdcQX.jpg",
+      "air-force-1-07-shoe-7FdcQX (1).jpg",
+      "air-force-1-07-shoe-7FdcQX (2).jpg",
+      "air-force-1-07-shoe-7FdcQX (3).jpg",
+      "air-force-1-07-shoe-7FdcQX (4).jpg",
+      "air-force-1-07-shoe-7FdcQX (5).jpg",
+      "air-force-1-07-shoe-7FdcQX (6).jpg",
+      "air-force-1-07-shoe-7FdcQX (7).jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Nike Court Royale 2 Low",
+    "price": 2595,
+    "description": "A flash from the past, the Nike Court Royale 2 features the same design that has rocked the streets since the late '70s. Leather on the upper looks crisp and is easy to wear, while the large retro Swoosh design adds throwback appeal. To top it off, the modernised herringbone sole puts a twist on the classic look.",
+    "rate": 5.0,
+    "sku": "fjdwrF",
+    "images": [
+      "court-royale-2-low-shoe-fjdwrF.jpg",
+      "court-royale-2-low-shoe-fjdwrF (1).jpg",
+      "court-royale-2-low-shoe-fjdwrF (2).jpg",
+      "court-royale-2-low-shoe-fjdwrF (3).jpg",
+      "court-royale-2-low-shoe-fjdwrF (4).jpg",
+      "court-royale-2-low-shoe-fjdwrF (5).jpg",
+      "court-royale-2-low-shoe-fjdwrF (6).jpg",
+      "court-royale-2-low-shoe-fjdwrF (7).jpg"
+    ]
+  }
+]
